@@ -98,3 +98,13 @@ curl -X DELETE http://localhost:8080/servers/123
 
 # Find servers by name
 curl http://localhost:8080/servers?name=my
+
+
+
+
+
+
+
+![Screenshot 2023-03-29 214236](https://user-images.githubusercontent.com/70112790/228631207-8bb14f2a-4db7-422d-839f-84f07137862a.jpg)
+
+![WhatsApp Image 2023-03-29 at 11 38 03 PM](https://user-images.githubusercontent.com/70112790/228631266-f2f19ced-cb80-4f4a-a67d-1607b1b896d4.jpeg)
